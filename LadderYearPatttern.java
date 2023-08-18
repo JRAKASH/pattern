@@ -1,4 +1,4 @@
-public class RightTrianglePattern   
+public class LadderYearPatttern   
 {   
 public static void main(String args[])   
 {   
